@@ -225,6 +225,14 @@ svg{
     margin-top:30px;
 }
 
+.list-inline-item a{
+    margin-left: 8px;
+}
+
+.fa-heart{
+    margin-left:4px;
+}
+
 
 
 }
